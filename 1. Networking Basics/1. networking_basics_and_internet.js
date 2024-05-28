@@ -63,7 +63,9 @@ Internet:
         World Wide Web (WWW):
         
         What is the World Wide Web (WWW)?
-                The World Wide Web, commonly referred to as the Web, is an information space where documents and other resources are identified by Uniform Resource Locators (URLs) and accessed via the Internet. It was invented by Tim Berners-Lee in 1989 while working at CERN (European Organization for Nuclear Research).
+                The World Wide Web, commonly referred to as the Web, is an information space where documents and other resources are 
+                identified by Uniform Resource Locators (URLs) and accessed via the Internet. It was invented by Tim Berners-Lee in 
+                1989 while working at CERN (European Organization for Nuclear Research).
         
         What Did Tim Berners-Lee Invent?
                 Tim Berners-Lee invented the World Wide Web, which encompasses technologies such as Hypertext Transfer Protocol 
@@ -73,7 +75,9 @@ Internet:
         Dot-com:
         
         What is Dot-com?
-                Dot-com refers to the domain name extension ".com" that is commonly used for commercial websites. It was one of the original top-level domain (TLD) extensions established in the Domain Name System (DNS) and is widely associated with businesses and commercial enterprises on the internet.
+                Dot-com refers to the domain name extension ".com" that is commonly used for commercial websites. It was one of 
+                the original top-level domain (TLD) extensions established in the Domain Name System (DNS) and is widely associated 
+                with businesses and commercial enterprises on the internet.
         
         Why is Dot-com Significant?
                 During the late 1990s and early 2000s, the dot-com boom saw a rapid expansion of internet-based businesses 
