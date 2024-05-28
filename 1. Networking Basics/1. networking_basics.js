@@ -22,8 +22,15 @@ Networking:
         - Scalability and Flexibility: Supports the growth and adaptation of systems to meet evolving needs.
 
 When Did Computer Networking Happen?
-        - Early Development: Began in the 1960s with the creation of the ARPANET, the precursor to the internet.
-        - Commercial Adoption: Expanded in the 1980s and 1990s with the rise of personal computers and the commercial internet.
+        Early Development: Computer networking began in the 1960s with the creation of ARPANET, 
+                a project funded by the U.S. Department of Defense's Advanced Research Projects Agency (ARPA).
+                The goal was to create a decentralized communication network that could withstand a nuclear attack. 
+                ARPANET laid the foundation for the modern internet.
+                
+        Commercial Adoption: In the 1980s and 1990s, computer networking expanded rapidly with the rise of personal 
+                computers and the commercialization of the internet. Companies and individuals began connecting to the 
+                internet, leading to the establishment of the World Wide Web and the proliferation of online services.
+
 
 How Does Computer Networking Work?
 
