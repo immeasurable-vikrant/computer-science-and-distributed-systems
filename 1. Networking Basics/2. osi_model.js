@@ -69,4 +69,8 @@ TCP/IP Model:
         Application Layer: Corresponds to the OSI application layer, providing network services directly to end-users and applications.
                 Example: Hypertext Transfer Protocol (HTTP) for web browsing.
 
+
+
+Interoperability refers to the degree to which a software system, devices, applications or other entity can connect and
+communicate with other entities in a coordinated manner without effort from the end user. 
 `
